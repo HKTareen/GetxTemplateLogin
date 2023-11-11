@@ -1,0 +1,11 @@
+/.dart_tool/
+/.idea/
+/build/
+!/pubspec.lock
+temp_auto_push.bat
+!/.packages
+!/.flutter-plugins-dependencies
+!/.flutter-plugins
+.git.zip
+.git.gitignore
+branch_structure.json
